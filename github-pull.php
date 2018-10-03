@@ -6,4 +6,6 @@ if ( $_POST['payload'] ) {
 shell_exec( ‘git pull’ );
 }
 
-?>hi
+?>
+
+<h1>HELLO</h1>
